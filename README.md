@@ -1,2 +1,0 @@
-# CUT-SVG
-animation SVG
